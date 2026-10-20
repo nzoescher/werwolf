@@ -6,7 +6,6 @@ Gruppenprojekt an der HAW Hamburg
 
 Meine Rolle
 Frontend in Flutter: Entwicklung der Benutzeroberfläche
-Anbindung an den Server über gRPC
 Scrum Master: Sprintplanung und Moderation der Team-Meetings
 Tech-Stack
 
